@@ -1,22 +1,16 @@
 {
-  "name": "reveal.js",
-  "version": "3.4.0",
-  "description": "The HTML Presentation Framework",
-  "homepage": "http://lab.hakim.se/reveal-js",
-  "subdomain": "revealjs",
-  "main": "js/reveal.js",
-  "scripts": {
-    "test": "grunt test",
-    "start": "grunt serve"
-  },
+  "name": "jekyll-presentation",
+  "version": "1.0.0",
+  "description": "This is a demonstration site showing how Jekyll and Pandoc can be used to build a site and ebook content from the same Markdown files.",
+  "homepage": "https://github.com/gwmccull/jekyll-presentation",
   "author": {
-    "name": "Hakim El Hattab",
-    "email": "hakim.elhattab@gmail.com",
-    "web": "http://hakim.se"
+    "name": "Garrett McCullough",
+    "email": "garrett@mcculloughwebservices.com",
+    "web": "http://mcculloughwebservices.com"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/hakimel/reveal.js.git"
+    "url": "https://github.com/gwmccull/jekyll-presentation.git"
   },
   "engines": {
     "node": ">=4.0.0"
