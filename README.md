@@ -6,7 +6,7 @@ to create content once and distribute in multiple forms.
 All of the content is written in Markdown, except for a little HTML that was used
 when Markdown was limited.
 
-Jekyll was used to convert that Markdown into a static HTML/CSS/JavaScript site.  All of the content appears in two locations:
+Jekyll was used to convert that Markdown into a static HTML/CSS/JavaScript site.  All of the content appears in two locations:  
 1. on the main page of the site
 2. in the presentation
    1. the presentation uses Reval.js for the slides
