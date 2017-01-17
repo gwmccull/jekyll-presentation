@@ -7,6 +7,7 @@ All of the content is written in Markdown, except for a little HTML that was use
 when Markdown was limited.
 
 Jekyll was used to convert that Markdown into a static HTML/CSS/JavaScript site.  All of the content appears in two locations:  
+
 1. on the main page of the site
 2. in the presentation
    1. the presentation uses Reval.js for the slides
@@ -15,6 +16,7 @@ Jekyll was used to convert that Markdown into a static HTML/CSS/JavaScript site.
 Pandoc was used to convert the Markdown into an EPub ebook.  This ebook is linked in the header of the site.
 
 To run:
+
 1. clone the repository
 2. use your favorite mini-server to serve up the page (for example, `http-server`)
 3. if you'll be making changes to the content:
