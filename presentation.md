@@ -4,5 +4,10 @@ title: Presentation
 permalink: /presentation/
 ---
 
-<section>Slide 1</section>
-<section>Slide 2</section>
+<section>
+  <h1>{{ site.title }}</h1>
+</section>
+
+{% for content in site.data.content %}
+  <section>{% include layout.md title=content.id slide=true %}</section>
+{% endfor %}
